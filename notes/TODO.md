@@ -1,7 +1,11 @@
+*probably scrap this? maybe do it for kube section*
 * [ ] dockerizing nginx app
 * [ ] ->  with filesystem
+
+
 * [ ] dockerizing loopback app
-* [ ] dockerizing mysql server (with data)
+* ~~[ ] dockerizing mysql server (with data)~~
+  * **nah fuck this**
   * http://blog.turret.io/a-better-dockerized-mysql/
   * http://www.nkode.io/2014/09/12/easymysql.html
 * [ ] dockerizing “micro” or “next” web server thing
@@ -15,18 +19,6 @@
 
 # Setup
 
-## Micro + Now
-
-* ~~[ ] micro app scaffolding~~
-* [x] Deploy to Now
-* [x] List deployments
-* [x] Aliasing
-* [x] have it do something
-* [ ] have it access some 3rd party thing
-* [x] update & deploy
-* [ ] Test micro app
-* [ ] dockerize micro app
-* [x] deploy dockerized app to now! ?
 
 ## Next
 

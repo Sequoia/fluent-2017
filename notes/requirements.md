@@ -4,6 +4,7 @@ Stuff to install ahead of time
 
 * Node.js:
   * [installers](https://nodejs.org/en/download/)
+* Python: v2.7
 * postman
 * docker TODO: link
   * TODO: list some images they should preload
@@ -16,6 +17,11 @@ Stuff to install ahead of time
 * mysql?
   * TODO: look up free mysql hosting...again
   * TODO: Create mysql docker container with dbs all set up TODO write steps to install & **access** locally
+* Kubernetes
+  * turned virualization on in BIOS https://rominirani.com/tutorial-getting-started-with-kubernetes-on-your-windows-laptop-with-minikube-3269b54a226
+  * kubectl
+  * minikube
+  * `minikube start` <-- get to this point to have a cluster up and running beforehand
 
 # Service/account requirements
 
